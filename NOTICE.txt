@@ -1,0 +1,9 @@
+azure-functions-auth
+Copyright 2022 Optum
+
+Project Description:
+====================
+An easy way to wrap Azure Functions in automatic OAuth2 JWT authorization!
+
+Author(s):
+aaavang
