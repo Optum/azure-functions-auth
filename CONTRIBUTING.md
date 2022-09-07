@@ -7,7 +7,7 @@
 
 We're thrilled that you'd like to contribute to this project. Your support of this project directly contributes the mission of Optum and UHG to help people live healthier lives and to help make the health system work better for everyone.
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.  Please review our [Contributor License Agreement ("CLA")](/docs/INDIVIDUAL_CONTRIBUTOR_LICENSE.md) prior to submitting changes to the project.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.  Please review our [Contributor License Agreement ("CLA")](INDIVIDUAL_CONTRIBUTOR_LICENSE.md) prior to submitting changes to the project.
 
 > :bulb:  The first time you open a pull request in this repository, you will see a comment on your PR with a link that will allow you to sign our Contributor License Agreement (CLA) if necessary.
 
@@ -72,8 +72,14 @@ Work in Progress pull request are also welcome to get feedback early on, or if t
 
 All JavaScript must adhere to [JavaScript Standard Style](https://standardjs.com/).
 
+## Questions
+
+For questions, please contact the project team at [opensource@optum.com][email].
+
 ## Resources
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+
+[email]: mailto:opensource@optum.com
