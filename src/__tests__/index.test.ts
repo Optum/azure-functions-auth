@@ -8,6 +8,8 @@ import { Context, HttpRequest, Logger } from '@azure/functions';
 import { mock } from 'jest-mock-extended';
 import { jwtVerify, createRemoteJWKSet } from 'jose';
 
+jest.mock('jose')
+
 describe("azure-function-auth tests", () => {
   beforeEach(() => {
     jest.clearAllMocks()
