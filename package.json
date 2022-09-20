@@ -1,5 +1,5 @@
 {
-  "name": "Optum/azure-functions-auth",
+  "name": "@optum/azure-functions-auth",
   "version": "1.0.5",
   "description": "a middleware library for securing Azure functions using OAuth2/JWT",
   "main": "dist/index.js",
